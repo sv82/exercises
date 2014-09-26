@@ -1,4 +1,4 @@
 exercises
 =========
 
-I'm a n00b here, sorry... :(
+I'm a <b>n00b</b> here, sorry... :(
